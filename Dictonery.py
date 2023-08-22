@@ -26,3 +26,6 @@ print(all_keys)
 
 all_values = list(scores.values())
 print(all_values)
+
+#iterating through a dictionary
+
