@@ -16,3 +16,13 @@ print(scores)
 
 scores ['Saman'] =70
 print(scores)
+
+#Get the list of all keys
+
+all_keys = list(scores.keys())
+print(all_keys)
+
+#Get the list of all values
+
+all_values = list(scores.values())
+print(all_values)
