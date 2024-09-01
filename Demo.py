@@ -36,3 +36,7 @@ elif age >= 75 :
     print("Your Senior")
 else:
     print("out of coming wrong data")
+    
+    # List case
+    
+    
